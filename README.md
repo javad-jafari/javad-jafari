@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm javad</h1>
-<h3 align="center">A passionate back end developer from IRAN</h3>
+<h3 align="center"> back end developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javad-jafari&label=Profile%20views&color=0e75b6&style=flat" alt="javad-jafari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javad-jafari" alt="javad-jafari" /></a> </p>
-
-- 🌱 I’m currently learning **advance python and c/c++**
+- 🌱 I’m currently learning **advance python and nonlinear optimization **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
